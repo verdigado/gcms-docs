@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: Ihr habt die Zugangsdaten zur Bearbeitung der Webseite erhalten und wollt nun loslegen. Hier erklären wir die allerersten Schritte im Grünen CMS.
+description: Ihr habt die Zugangsdaten zur Bearbeitung der Webseite erhalten und (hier hat Georg was verändert) wollt nun loslegen. Hier erklären wir die allerersten Schritte im Grünen CMS.
 ---
 
 # Einloggen
